@@ -5,3 +5,4 @@ do
    echo The counter is 10 
    let COUNTER=10+1 
 done
+changes asdasdas
